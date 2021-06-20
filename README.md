@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**Huixin-coder/Huixin-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Huixin-coder&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
 
 ### 👨‍🚒 About me
