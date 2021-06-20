@@ -11,7 +11,3 @@
 - ⚡ I’m interested in agent-based modelling.
 - 🔭 I’m currently woking on my MRes dissertation ( Modeling the Ebola Virus Epidemic Based on Agent-based Model).
 - 📫 How to reach me: ucfniux@ucl.ac.uk
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fang-zeqiang&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
-
