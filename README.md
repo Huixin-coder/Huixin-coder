@@ -5,7 +5,7 @@
 
 ### 👨‍🚒 About me
 
-- 🌱 I’m currently an first year PhD student in The Bartlett Centre for Advanced Spatial Analysis.
+- 🌱 I’m currently a first year PhD student in The Bartlett Centre for Advanced Spatial Analysis.
 - ⚡ I’m interested in agent-based modelling.
 - 🔭 I’m previous an MRes Spatial Data Science and Visualisation student in CASA.
 - 📫 How to reach me: huixin.liu.20@ucl.ac.uk
