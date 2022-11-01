@@ -5,7 +5,7 @@
 
 ### 👨‍🚒 About me
 
-- 🌱 I’m currently an MRes Spatial Data Science and Visualisation student in The Bartlett Centre for Advanced Spatial Analysis.
+- 🌱 I’m currently an first year PhD student in The Bartlett Centre for Advanced Spatial Analysis.
 - ⚡ I’m interested in agent-based modelling.
-- 🔭 I’m currently woking on my MRes dissertation ( Modeling the Ebola Virus Epidemic Based on Agent-based Model).
+- 🔭 I’m previous an MRes Spatial Data Science and Visualisation student in CASA.
 - 📫 How to reach me: ucfniux@ucl.ac.uk
